@@ -3,6 +3,7 @@ package com.mygdx.game;
 import com.badlogic.gdx.graphics.g2d.Batch;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.scenes.scene2d.Actor;
+import com.badlogic.gdx.utils.Queue;
 
 
 public class Infiltrator extends Actor{
@@ -54,6 +55,19 @@ public class Infiltrator extends Actor{
                 getScaleX(), getScaleY(),
                 getRotation());
     }
+
+
+    public Enum state(){
+
+        return null;
+    }
+
+
+    public Queue sabotageQueue(){
+
+        return null;
+    }
+
 
     public void PerformSabotage(){
         

@@ -54,4 +54,17 @@ public class Player extends Actor{
                 getScaleX(), getScaleY(),
                 getRotation());
     }
+    public Infiltrator enemyCarrying(){
+        return null;
+    }
+
+
+    public Enum state(){
+
+        return null;
+    }
+
+    public void pickupDropEnemy(){
+
+    }
 }

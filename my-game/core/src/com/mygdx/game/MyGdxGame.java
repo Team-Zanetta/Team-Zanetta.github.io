@@ -11,6 +11,7 @@ public class MyGdxGame extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
 	Infiltrator infiltrator;
+	Player Player;
 	
 	@Override
 	public void create () {

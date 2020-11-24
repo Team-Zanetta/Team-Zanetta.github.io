@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to new index page](./new-index.html).
+[Link to new index page](./new-index.md).
 
 There should be whitespace between paragraphs.
 

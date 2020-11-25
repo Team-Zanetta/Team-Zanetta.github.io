@@ -9,8 +9,7 @@ During this week we first met and introduced ourselves to each other, establishe
 ### Week 4: Monday 19th October – Sunday 25th October
 In this week we had our initial team-customer meeting and began to elicit game requirements. We also began some game design as we had elicited the games functional requirements. We didn’t finish requirements elicitation (task 3) in this week as we had planned, however in reality we found task 4 didn’t depend on the completion of task 3, meaning we could start this task early.  This week we also completed task 7 (created the github organisation.)<br>
 [Meeting minutes - 21/10/2020](./meet-minutes/21-10-minutes.pdf)<br>
-[Meeting minutes - 22/10/2020](./meet-minutes/22-10-minutes.pdf)<br>
-[Meeting minutes - 23/10/2020](./meet-minutes/23-10-minutes.pdf)
+[Meeting minutes - 22/10/2020](./meet-minutes/22-10-minutes.pdf)
 
 ### Week 5: Monday 26th October – Sunday 1st November
 In this week we completed our requirements elicitation and finished our game design. With task 3 and 4 both completed we are back in line with the schedule outlined in our initial plans. <br>
@@ -39,7 +38,7 @@ We spent the beginning of this week completing task 6, which reduced the time we
 
 ### Week 9: Monday 23rd November – Wednesday 25th November 
 This week we completed the initial game implementation, however due to the reduced timeframe some requirements were not met within this implementation. In this week we also completed task 9 (concrete architecture.) <br>
-[Meeting minutes - 23/11/2020](./meet-minutes/20-11-minutes.pdf)
+[Meeting minutes - 23/11/2020](./meet-minutes/23-11-minutes.pdf)
 
 <br>
 [**Back**](./)

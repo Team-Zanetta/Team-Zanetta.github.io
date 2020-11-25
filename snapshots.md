@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Snapshots
+title: Weekly Snapshots
 ---
 
 ### Week 3: Monday 12th October – Sunday 18th October 
@@ -23,3 +23,6 @@ We spent the beginning of this week completing task 6, which reduced the time we
 
 ### Week 9: Monday 23rd November – Wednesday 25th November 
 This week we completed the initial game implementation, however due to the reduced timeframe some requirements were not met within this implementation. In this week we also completed task 9 (concrete architecture.) 
+
+
+[**Back**](./)

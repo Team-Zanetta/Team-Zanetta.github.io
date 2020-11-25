@@ -7,17 +7,17 @@ description: Links to all our pdf's
 ## Deliverables
 Below are links to our deliverable pdf files.
 
-[Requirements (pdf)](./Req1.pdf)
+[Requirements (pdf)](./deliverables/Req1.pdf)
 
-[Architecture (pdf)](./Arch1.pdf)
+[Architecture (pdf)](./deliverables/Arch1.pdf)
 
-[Method Selection and Planning (pdf)](./Plan1.pdf)
+[Method Selection and Planning (pdf)](./deliverables/Plan1.pdf)
 
-[Risk Assessment and Mitigation (pdf)](./Risk1.pdf)
+[Risk Assessment and Mitigation (pdf)](./deliverables/Risk1.pdf)
 
-[Implementation (pdf)](./Impl1.pdf)
+[Implementation (pdf)](./deliverables/Impl1.pdf)
 
-[Self Assessment (pdf)](./SelfAss1.pdf)
+[Self Assessment (pdf)](./deliverables/SelfAss1.pdf)
 
 
 

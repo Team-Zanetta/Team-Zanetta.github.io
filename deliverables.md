@@ -12,7 +12,7 @@ description: Links to all our pdf's
 
 [Method Selection and Planning (pdf)](./Plan1.pdf)
 
-[Risk Assessment and Mitigation (pdf)](./Req1.pdf)
+[Risk Assessment and Mitigation (pdf)](./Risk1.pdf)
 
 [Implementation (pdf)](./Impl1.pdf)
 

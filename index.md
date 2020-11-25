@@ -8,7 +8,7 @@ Welcome to the official website for Team Zanetta's project Auber! Team Zanetta c
 
 ### Code
 Click to view our github repository. <br>
-[repository](https://github.com/Team-Zanetta/Project-Auber) <br>
+[Repository](https://github.com/Team-Zanetta/Project-Auber) <br>
 
 ### Deliverables
 Click to view a list of all our deliverables in pdf format. <br>

@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Team Zanetta deliverables
+title: Deliverables
 description: Links to all our pdf's
 ---
 
 ## Deliverables
+Below are links to our deliverable pdf files.
 
 [Requirements (pdf)](./Req1.pdf)
 
@@ -19,4 +20,5 @@ description: Links to all our pdf's
 [Self Assessment (pdf)](./SelfAss1.pdf)
 
 
-[**back**](./)
+
+[**Back**](./)

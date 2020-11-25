@@ -6,6 +6,10 @@ title: Welcome
 ### Welcome
 Welcome to the official website for Team Zanetta's project Auber! Team Zanetta comprises Harry Kelly, Timothy Kerr-Chin, Siyaam Mahmood, Alexandre Pinneau, Joe Sanders, and Emily Tierney.
 
+### Play Auber
+Click to download our .jar file. <br>
+[Releases](https://github.com/Team-Zanetta/Project-Auber/releases) <br>
+
 ### Code
 Click to view our github repository. <br>
 [Repository](https://github.com/Team-Zanetta/Project-Auber) <br>

@@ -15,7 +15,7 @@ In this week we had our initial team-customer meeting and began to elicit game r
 ### Week 5: Monday 26th October – Sunday 1st November
 In this week we completed our requirements elicitation and finished our game design. With task 3 and 4 both completed we are back in line with the schedule outlined in our initial plans. <br>
 [Meeting minutes - 26/10/2020](./meet-minutes/26-10-minutes.pdf)<br>
-[Meeting minutes - 27/10/2020](./meet-minutes/27-10-minutes.pdf)<br><br>
+[Meeting minutes - 27/10/2020](./meet-minutes/27-10-minutes.pdf)<br>
 [Meeting minutes - 29/10/2020](./meet-minutes/29-10-minutes.pdf)
 
 ### Week 6: Monday 2nd November – Sunday 8th November

@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Team Zanetta, Project Auber
+title: Welcome
 ---
 
-## Welcome
-Welcome to the official website for Team Zanetta's project Auber!
+### Welcome
+Welcome to the official website for Team Zanetta's project Auber! Team Zanetta comprises Harry Kelly, Timothy Kerr-Chin, Siyaam Mahmood, Alexandre Pinneau, Joe Sanders, and Emily Tierny.
 
-### The Team
-Harry Kelly, Timothy Kerr-Chin, Siyaam Mahmood, Alexandre Pinneau, Joe Sanders, Emily Tierny
+[Weekly Snapshots](./snapshots.md)
 
-## Deliverables
 [Deliverables](./deliverables.md)
